@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+Developed a function to check if all boxes can be
+opened given a list of boxes
+"""
 
 def canUnlockAll(boxes):
     """Checks if all boxes can be opened
